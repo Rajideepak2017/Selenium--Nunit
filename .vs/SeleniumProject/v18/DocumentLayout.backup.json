@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\managers\\pageobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\managers\\pageobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\deleteaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\deleteaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\tests\\placeordertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\tests\\placeordertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\tests\\practisetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\tests\\practisetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\orderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\orderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\practisehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\practisehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\envloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\envloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\testdata\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\testdata\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\signuppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\paymentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\paymentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\orderconfirmationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\orderconfirmationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\navigationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\navigationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\accountcreatedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\accountcreatedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\managers\\browserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\managers\\browserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\utilities\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\utilities\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\SeleniumProject.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\seleniumproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\SeleniumProject.csproj|solutionrelative:nhsbloodtest\\seleniumproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\managers\\pagetestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\managers\\pagetestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\pageobjects\\practise\\alertpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\pageobjects\\practise\\alertpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|c:\\users\\badri\\source\\repos\\nhsbloodtest\\nhsbloodtest\\secure.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23A6A88F-2840-4734-A25C-5980C1E9A887}|NHSBloodTest\\NHSBloodTest.csproj|solutionrelative:nhsbloodtest\\secure.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceOrderTest.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Tests\\PlaceOrderTest.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Tests\\PlaceOrderTest.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Tests\\PlaceOrderTest.cs",
+              "RelativeToolTip": "NHSBloodTest\\Tests\\PlaceOrderTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:17:37.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderHelper.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\OrderHelper.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\OrderHelper.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\OrderHelper.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\OrderHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:06:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PractiseTest.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Tests\\PractiseTest.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Tests\\PractiseTest.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Tests\\PractiseTest.cs",
+              "RelativeToolTip": "NHSBloodTest\\Tests\\PractiseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:31:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Managers\\PageObjectManager.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Managers\\PageObjectManager.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Managers\\PageObjectManager.cs",
+              "RelativeToolTip": "NHSBloodTest\\Managers\\PageObjectManager.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:22:48.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\CartPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\CartPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\CartPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\CartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:03:21.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\CheckoutPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\CheckoutPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:59:09.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\HomePage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\HomePage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\HomePage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:27:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteAccountPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\DeleteAccountPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\DeleteAccountPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\DeleteAccountPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\DeleteAccountPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:23:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PractiseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\PractiseHelper.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\PractiseHelper.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\PractiseHelper.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\PractiseHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:56:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonReader.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\JsonReader.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\JsonReader.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\JsonReader.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\JsonReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:03:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\Helper.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\Helper.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\Helper.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:07:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnvLoader.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\EnvLoader.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\EnvLoader.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\EnvLoader.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\EnvLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:54:41.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\BaseTest.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\BaseTest.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\BaseTest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:35:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "testdata.json",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\TestData\\testdata.json",
+              "RelativeDocumentMoniker": "NHSBloodTest\\TestData\\testdata.json",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\TestData\\testdata.json",
+              "RelativeToolTip": "NHSBloodTest\\TestData\\testdata.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T09:55:14.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignupPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\SignupPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\SignupPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\SignupPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\SignupPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:19:51.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\PaymentPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\PaymentPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\PaymentPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\PaymentPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:10:46.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderConfirmationPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\OrderConfirmationPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\OrderConfirmationPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\OrderConfirmationPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\OrderConfirmationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:10:43.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NavigationPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\NavigationPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\NavigationPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\NavigationPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\NavigationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:43:13.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:44:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountCreatedPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\AccountCreatedPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\AccountCreatedPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\AccountCreatedPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\AccountCreatedPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:20:00.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BrowserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Managers\\BrowserFactory.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Managers\\BrowserFactory.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Managers\\BrowserFactory.cs",
+              "RelativeToolTip": "NHSBloodTest\\Managers\\BrowserFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:28:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\BaseClass.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Utilities\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Utilities\\BaseClass.cs",
+              "RelativeToolTip": "NHSBloodTest\\Utilities\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:26:48.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NHSBloodTest.csproj",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\SeleniumProject.csproj",
+              "RelativeDocumentMoniker": "NHSBloodTest\\SeleniumProject.csproj",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\SeleniumProject.csproj",
+              "RelativeToolTip": "NHSBloodTest\\SeleniumProject.csproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T20:21:27.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PageTestManager.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Managers\\PageTestManager.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Managers\\PageTestManager.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Managers\\PageTestManager.cs",
+              "RelativeToolTip": "NHSBloodTest\\Managers\\PageTestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:45:46.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AlertPage.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\Practise\\AlertPage.cs",
+              "RelativeDocumentMoniker": "NHSBloodTest\\PageObjects\\Practise\\AlertPage.cs",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\PageObjects\\Practise\\AlertPage.cs",
+              "RelativeToolTip": "NHSBloodTest\\PageObjects\\Practise\\AlertPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:03:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\app.config",
+              "RelativeDocumentMoniker": "NHSBloodTest\\app.config",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\app.config",
+              "RelativeToolTip": "NHSBloodTest\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-18T19:59:43.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Secure.env",
+              "DocumentMoniker": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Secure.env",
+              "RelativeDocumentMoniker": "NHSBloodTest\\Secure.env",
+              "ToolTip": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\Secure.env",
+              "RelativeToolTip": "NHSBloodTest\\Secure.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-18T18:51:18.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

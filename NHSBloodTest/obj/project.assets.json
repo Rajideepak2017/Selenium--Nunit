@@ -5816,9 +5816,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\NHSBloodTest.csproj",
-      "projectName": "NHSBloodTest",
-      "projectPath": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\NHSBloodTest.csproj",
+      "projectUniqueName": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\SeleniumProject.csproj",
+      "projectName": "SeleniumProject",
+      "projectPath": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\SeleniumProject.csproj",
       "packagesPath": "C:\\Users\\badri\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\badri\\source\\repos\\NHSBloodTest\\NHSBloodTest\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,7 +1,7 @@
-﻿using NHSBloodTest.Utilities;
+﻿using SeleniumProject.Utilities;
 using OpenQA.Selenium;
 
-namespace NHSBloodTest.PageObjects
+namespace SeleniumProject.PageObjects
 {
     public class AccountCreatedPage
     {

@@ -1,12 +1,12 @@
 ﻿using AventStack.ExtentReports;
-using NHSBloodTest.Managers;
+using SeleniumProject.Managers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NHSBloodTest.Utilities
+namespace SeleniumProject.Utilities
 {
     public class OrderHelper :BaseClass
     {

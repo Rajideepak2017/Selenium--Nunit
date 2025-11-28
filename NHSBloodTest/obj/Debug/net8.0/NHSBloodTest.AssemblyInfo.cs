@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NHSBloodTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d77029c4469d8dcd4659cd42ed5b5e0ac6a14676")]
 [assembly: System.Reflection.AssemblyProductAttribute("NHSBloodTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NHSBloodTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

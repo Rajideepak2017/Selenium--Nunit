@@ -1,9 +1,9 @@
-﻿using NHSBloodTest.Utilities;
+﻿using SeleniumProject.Utilities;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using System;
 
-namespace NHSBloodTest.PageObjects
+namespace SeleniumProject.PageObjects
 {
     public class SignupPage
     {

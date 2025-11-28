@@ -1,8 +1,8 @@
-﻿using NHSBloodTest.Utilities;
+﻿using SeleniumProject.Utilities;
 using OpenQA.Selenium;
 using System;
 
-namespace NHSBloodTest.PageObjects
+namespace SeleniumProject.PageObjects
 {
     public class LoginPage
     {

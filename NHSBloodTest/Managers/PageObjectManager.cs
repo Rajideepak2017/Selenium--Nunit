@@ -1,9 +1,10 @@
-﻿using NHSBloodTest.PageObjects;
-using NHSBloodTest.Utilities;
+﻿using SeleniumProject.PageObjects;
+
+using SeleniumProject.Utilities;
 using OpenQA.Selenium;
 using System;
 
-namespace NHSBloodTest.Managers
+namespace SeleniumProject.Managers
 {
     public class PageObjectManager
     {
@@ -21,6 +22,8 @@ namespace NHSBloodTest.Managers
         private AccountCreatedPage accountCreatedPage;
         private PaymentPage paymentPage;
         private NavigationPage navigationPage;
+
+      
 
         // Constructor
         public PageObjectManager(IWebDriver driver, Helper helper)
@@ -129,5 +132,7 @@ namespace NHSBloodTest.Managers
                 return navigationPage;
             }
         }
+
+      
     }
 }

@@ -1,5 +1,5 @@
 ﻿using AventStack.ExtentReports;
-using NHSBloodTest.Utilities;
+using SeleniumProject.Utilities;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
@@ -7,7 +7,7 @@ using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
 using WebDriverManager.Helpers;
 
-namespace NHSBloodTest.Managers
+namespace SeleniumProject.Managers
 {
     public static class BrowserFactory
     {

@@ -1,20 +1,21 @@
 ﻿using AventStack.ExtentReports;
 using AventStack.ExtentReports.Model;
 using DotNetEnv;
-using NHSBloodTest.Managers;
-using NHSBloodTest.PageObjects;
-using NHSBloodTest.Utilities;
+using SeleniumProject.Managers;
+using SeleniumProject.PageObjects;
+using SeleniumProject.Utilities;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using System;
 
-namespace NHSBloodTest.Tests
+namespace SeleniumProject.Tests
 {
     [TestFixture]
     
     public class PlaceOrderTest : OrderHelper
     {
         [Test]
+       
         [Retry(1)]
         public void PlaceOrder()
         {

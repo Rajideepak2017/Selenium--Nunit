@@ -3,7 +3,7 @@ using AventStack.ExtentReports;
 using AventStack.ExtentReports.Model;
 using AventStack.ExtentReports.Reporter;
 using Newtonsoft.Json;
-using NHSBloodTest.Managers;
+using SeleniumProject.Managers;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
 using OpenQA.Selenium.BiDi.BrowsingContext;
@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 using WebDriverManager.DriverConfigs.Impl;
 using WebDriverManager.Helpers;
 
-namespace NHSBloodTest.Utilities
+namespace SeleniumProject.Utilities
 {
     public class BaseClass
     {

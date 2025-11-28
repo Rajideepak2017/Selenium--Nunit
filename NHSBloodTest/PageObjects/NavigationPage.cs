@@ -1,9 +1,9 @@
-﻿using NHSBloodTest.Utilities;
+﻿using SeleniumProject.Utilities;
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
 
-namespace NHSBloodTest.PageObjects
+namespace SeleniumProject.PageObjects
 {
     public class NavigationPage
     {

@@ -2,13 +2,15 @@
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System;
+using System.Collections.ObjectModel;
 
-namespace NHSBloodTest.Utilities
+namespace SeleniumProject.Utilities
 {
     public class Helper
     {
         private IWebDriver driver;
         private WebDriverWait wait;
+        private ReadOnlyCollection<IWebElement> elements;
 
         public Helper(IWebDriver driver, int timeoutInSeconds = 10)
         {
@@ -78,7 +80,19 @@ namespace NHSBloodTest.Utilities
         //findElemnts
         public IList<IWebElement> FindElements(By locator)
         {
-            return wait.Until(driver => driver.FindElements(locator));
+            return wait.Until(driver =>
+            {
+                var elements = driver.FindElements(locator);
+                if (elements.Count > 0)
+                {
+                    return elements;
+                }
+                else
+                {
+                    return null;
+                }
+            });
+        
         }
 
         //Clear and send keys
